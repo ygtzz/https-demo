@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "dev": "node koa.js",
+    "express": "node express.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "https": "^1.0.0",
+    "koa": "^2.13.0",
+    "koa-sslify": "^4.0.3"
+  }
+}
